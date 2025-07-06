@@ -55,10 +55,10 @@ This project presents an **interactive Excel dashboard** designed to analyze sup
 
 ---
 
-## 👤 Author
-
-**D Akshaykumar**  
-🔗 LinkedIn
-🔗 GitHub
+## 👨‍💻 Author & Contact
+- **Name:** D Akshaykumar  
+- 📧 d.akshaykumar17@gmail.com  
+- 🔗 [LinkedIn](https://linkedin.com)  
+- 🔗 [GitHub](https://github.com/Akshay17DS)
 
 ---
