@@ -51,7 +51,7 @@ This project presents an **interactive Excel dashboard** designed to analyze sup
 
 ## 📸 Dashboard Preview
 
-
+![Dashboard](https://github.com/user-attachments/assets/ee86ec5c-c2ab-4898-8e7e-9d7b27e2ce46)
 
 ---
 
